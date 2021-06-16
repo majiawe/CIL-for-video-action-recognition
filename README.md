@@ -27,8 +27,8 @@ cd ./CIL-for-video-action-recognition
 ```
 python train.py
 ```
-### Contact Emai
-dixian_1996@163.com
+### Contact Email
+If you have questions, please contact the Email:  dixian_1996@163.com
 
 
 
