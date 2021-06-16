@@ -13,13 +13,14 @@ manifolds of old class and new class.
 * numpy 1.19
 * pytorch 1.3
 
-### Run
+###  prepare
 * Download the project and action datasets.
 
   The download url is [dataset](www.). Extract password is
 * Activate your environment
 * Modify the absolute path in the project
 
+### train and test for each incremental session
 ```
 cd ./CIL-for-video-action-recognition
 ```
