@@ -16,7 +16,7 @@ manifolds of old class and new class.
 ###  prepare
 * Download the project and action datasets.
 
-  The download url is [dataset](www.). Extract password is
+  The download url is [dataset](https://pan.baidu.com/s/1qBXWKJUbfPzMWetK_vSEpA). Extract password is fffv
 * Activate your environment
 * Modify the absolute path in the project
 
