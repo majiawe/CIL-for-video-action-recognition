@@ -136,7 +136,7 @@ class DataProcess():
 
 class dataLoader():
 
-    def __init__(self,train=True,mask_frame='aligned_masks',frames=True,train_path ='/home/ma/CIL-for-video-action-recognition/train_dic_mask.pkl',test_path='/home/ma/CIL-for-video-action-recognition/test_dic_mask.pkl'):
+    def __init__(self,train=True,mask_frame='aligned_masks',frames=True,train_path ='./train_dic_mask.pkl',test_path='./test_dic_mask.pkl'):
         self.train = train
         self.frames = frames
         self.mask_frame = mask_frame
