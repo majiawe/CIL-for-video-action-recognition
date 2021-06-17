@@ -1,4 +1,4 @@
-## Class Incremental Learning For Video Action Recognition
+## Class Incremental Learning For Video Action Classification
 ### Introduction
 This paper presents a CIL method for video action classification. 
 This method uses CNN to extract features for each frame, and combines 
