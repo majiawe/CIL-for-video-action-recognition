@@ -24,6 +24,7 @@ P1_net.init_network(ds=ds_frame,dimension=512,e_labels=e_labels,num_context=3)
 
 all_th = np.array([0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009,0.009])
 train_cls = ['bend','skip','wave1','jack','side','wave2','pjump','run','jump','walk']
+#train_cls = ['handwaving','boxing','handclapping','walking','jogging','running']  #KTH
 trained_cls = []
 
 train_weights = []
