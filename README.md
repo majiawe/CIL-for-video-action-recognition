@@ -1,4 +1,9 @@
 ## Class Incremental Learning For Video Action Classification
+
+### paper information
+Title: CLASS INCREMENTAL LEARNING FOR VIDEO ACTION CLASSIFICATION (Accepted by icip 2021)  
+Authors: Jiawei Ma, Xiaoyu Tao, Jianxing Ma, Xiaopeng Hong, Yihong Gong
+
 ### Introduction
 This paper presents a CIL method for video action classification. 
 This method uses CNN to extract features for each frame, and combines 
@@ -28,9 +33,7 @@ cd ./CIL-for-video-action-recognition
 python train.py
 ```
 
-### paper information
-Title: CLASS INCREMENTAL LEARNING FOR VIDEO ACTION CLASSIFICATION (Accepted by icip 2021)  
-Authors: Jiawei Ma, Xiaoyu Tao, Jianxing Ma, Xiaopeng Hong, Yihong Gong
+
 
 
 ### Contact Email
