@@ -29,7 +29,7 @@ python train.py
 ```
 
 ### paper information
-Title: CLASS INCREMENTAL LEARNING FOR VIDEO ACTION CLASSIFICATION (Accepted by icip 2021)
+Title: CLASS INCREMENTAL LEARNING FOR VIDEO ACTION CLASSIFICATION (Accepted by icip 2021)  
 Authors: Jiawei Ma, Xiaoyu Tao, Jianxing Ma, Xiaopeng Hong, Yihong Gong
 
 
