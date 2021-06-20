@@ -27,6 +27,12 @@ cd ./CIL-for-video-action-recognition
 ```
 python train.py
 ```
+
+### paper information
+Title: CLASS INCREMENTAL LEARNING FOR VIDEO ACTION CLASSIFICATION (Accepted by icip 2021)
+Authors: Jiawei Ma, Xiaoyu Tao, Jianxing Ma, Xiaopeng Hong, Yihong Gong
+
+
 ### Contact Email
 If you have questions, please contact the Email:  dixian_1996@163.com
 
